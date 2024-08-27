@@ -1,0 +1,6 @@
+bibentry(
+  bibtype  = "Manual",
+  title    = "ClustMC: Cluster-Based Multiple Comparisons",
+  author   = person(given = "Santiago", family = "García Sánchez"),
+  year     = 2024
+)
